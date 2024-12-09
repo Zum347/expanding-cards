@@ -14,4 +14,4 @@
 
 ## EKRAN GÖRÜNTÜSÜ
 
-![Uygulama Görseli] (images/giphy.gif)
+![Proje Tanıtım GIF'i](assets/giphy.gif)
